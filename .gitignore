@@ -1,6 +1,7 @@
 # Data
 *.p
 *.tar.gz
+**/Archive.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
